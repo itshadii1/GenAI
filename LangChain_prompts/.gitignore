@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Cache & OS files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
